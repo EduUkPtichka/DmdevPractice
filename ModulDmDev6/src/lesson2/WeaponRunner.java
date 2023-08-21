@@ -16,5 +16,6 @@ public class WeaponRunner {
 
         Warrior<Sword> swordWarrior = new Warrior<Sword>("ЛукаГудван", 32);
         swordWarrior.setWeapon(new Sword());
+        //1
     }
 }
