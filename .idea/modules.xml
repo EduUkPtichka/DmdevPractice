@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DmdevPractice.iml" filepath="$PROJECT_DIR$/DmdevPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModulDmDev1/ModulDmDev1.iml" filepath="$PROJECT_DIR$/ModulDmDev1/ModulDmDev1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ModulDmDev3/ModulDmDev3.iml" filepath="$PROJECT_DIR$/ModulDmDev3/ModulDmDev3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModulDmDev16/ModulDmDev16.iml" filepath="$PROJECT_DIR$/ModulDmDev16/ModulDmDev16.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModulDmDev4/ModulDmDev4.iml" filepath="$PROJECT_DIR$/ModulDmDev4/ModulDmDev4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModulDmDev5/ModulDmDev5.iml" filepath="$PROJECT_DIR$/ModulDmDev5/ModulDmDev5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModulDmDev6/ModulDmDev6.iml" filepath="$PROJECT_DIR$/ModulDmDev6/ModulDmDev6.iml" />
     </modules>
   </component>
 </project>

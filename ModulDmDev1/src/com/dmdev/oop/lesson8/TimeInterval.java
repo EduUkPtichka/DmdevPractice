@@ -2,6 +2,7 @@ package com.dmdev.oop.lesson8;
 
 import java.sql.Time;
 
+//
 public class TimeInterval {
 
     private int second;
