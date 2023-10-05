@@ -1,4 +1,4 @@
-package lesson1ArrayList;
+package lesson1ArrayList_32;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,6 +13,6 @@ public class ArrayListRunner {
         integers.add(5);
         integers.add(6); // данный Элемент добавится блогодоря мезханизму заложенный в ArrayList
 
-        System.out.println();
+        System.out.println(integers);
     }
 }

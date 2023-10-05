@@ -1,6 +1,4 @@
-package lesson6HashMap_38;
-
-import lesson6HashMap_37.PersonHashMap;
+package lesson7HashMap_38;
 
 import java.util.Objects;
 
